@@ -12,4 +12,4 @@
   * Candlestick Patterns
   * Market Phase Deteciton
 
-![image](https://github.com/user-attachments/assets/244c7b6e-1b93-416e-8686-395cdc8a4ac1)
+![Chart Patterns](https://github.com/user-attachments/assets/166c39d1-ed40-4a4c-bdaa-a8e88ba538e4)
